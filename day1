@@ -1,4 +1,6 @@
-where to use python Programming??
+'>>>>>>> Indtoduction <<<<<<<<<<<< पाईथन क्‍या है।
+
+where to use python Programming/Python is most to suitable in this area??
 >>1 Web Application
 >>2 Game Application
 >>3 Artificial Inteligence Application
@@ -21,3 +23,32 @@ where to use python Programming??
 >>20 Data analysis and analytics
 >>21 education sectores
 >>22 Computer vision
+
+
+" Whats is software?
+Ans-software is collection of program.
+
+" Whats is program?
+Ans- Program is collection of instruction.
+
+" Types of Software?
+Ans-
+1> System Software.
+** wo software jo computer ko run karte hai like os,linker,compiler,loader,driver (To create system software c, c++, vc++ etc)
+
+2> Aplication Software
+** Aise software jo specific user ke liye banaye jaete hai(windows, desktop, like tally, kundali,sap
+front end> vb, d2k, vb.net,
+backend software for storage data like sql, oracle, db2)
+
+3> Web apllication
+** wo software jinko run karne ke liye internet required hota hai. Like website web apllication based on internet (html,css,php,java)
+
+4> Device application [mobile application android and iso]
+** Android application > JAVA,
+** IOS Application > Swift
+
+5> AI/IOT Application.[IOT = INTERNET OF THINGS]
+** to make Ai and Iot appllication to use python.
+
+##Python is not suitaible for device application.
