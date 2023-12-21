@@ -72,8 +72,7 @@ _____________________________________________________________
 > the python programming language developed CWI "central wiskindo institute" in nether land.
 ____________________________________________________________
 
-==>> Versions of python <<==
-____________________________________________________________
+====>> Versions of python <<====
 
 > Pyhton Programming contains 2 types of versions....
 [A] Python 2.x, x Represents 0,1,2,3,4,5,6,7
@@ -81,3 +80,20 @@ ____________________________________________________________
 
 _____________________________________________________________
 
+====>>> (DAY-3)  Features of Python Programming  <<====
+
+*** Feature of any programming langauge are nothing but service provided by language developer in language and thrye are used by launguage programmer and they are used in real time application.
+
+*** Python programming porvide 11 features they are 
+1)  Simple programming
+2)  Freeware and Open source
+3)  Platform independend and portable 
+4)  Dynamically typed 
+5)  Interpreted 
+6)  High level 
+7)  Robust (Strong programming langauge) Exception handling
+8)  Both functional object programming language
+9)  Extensible
+10) Embedded programming
+11) Support third party APIs-Numpy, pandas, scipy, scikit,  matplotlib
+12) 
