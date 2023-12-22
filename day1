@@ -84,6 +84,7 @@ _____________________________________________________________
 
 *** Feature of any programming langauge are nothing but service provided by language developer in language and thrye are used by launguage programmer and they are used in real time application.
 
+
 *** Python programming porvide 11 features they are 
 1)  Simple programming
 2)  Freeware and Open source
@@ -97,3 +98,30 @@ _____________________________________________________________
 10) Embedded programming
 11) Support third party APIs-Numpy, pandas, scipy, scikit,  matplotlib
 12) 
+
+??? Define python in one line ???
+1. python is open source, freeware procedure + function + object oriented, and platform independed
+
+====>>> (DAY-4)    <<====
+
+Why Simple
+1. Simple >> 
+python is one of the  prgramming langauge becoz IMPORTANT of 3 tech factors. the are,
+(i)     PYTHON programming provides "rich set of APIs" so that python programmer can re-use predefine code without writing own code. 
+    
+    API "application programing interface"
+    
+    :> An API is collection of Module.  module is a collection of function, Variable and classes.
+    Example Module - cmath, math, caledar, random etc
+
+(ii)    Python programming provides in-built facility called "Garbage collector" so that it can run behide of python program for collecting un used memmory and  improve performance of python based application.
+
+:> def. Garbage collectore;
+A garbage collector is one of the python background program which is running behind of every python program and whose  
+
+
+
+
+
+
+
