@@ -117,9 +117,9 @@ python is one of the  prgramming langauge becoz IMPORTANT of 3 tech factors. the
 (ii)    Python programming provides in-built facility called "Garbage collector" so that it can run behide of python program for collecting un used memmory and  improve performance of python based application.
 
 :> def. Garbage collectore;
-A garbage collector is one of the python background program which is running behind of every python program and whose  
+A garbage collector is one of the python background program which is running behind of every python program and whose role is collect un-used memory space and improces the performance of python based application.
 
-
+(iii)   python programing provides user freindly syntaxes. so that python programmer develop error free programs in limited span of time
 
 
 
